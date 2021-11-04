@@ -1,0 +1,58 @@
+** HTML ** 
+ - Lenguaje de marcado 
+ - Tiene estructura jerarquica
+
+** Pilares **
+ Forma principal de escribir nuestro HTML 
+
+*Atributos*
+ Modificadores de comportamiento y funcionalidad para las etiquetas 
+
+**Etiquetas basicas**
+HTML -> Representa la raiz de un documento HTML.
+ El resto de elementos descienden de este elemento.
+
+HEAD -> La etiqueta <head> provee informacion general acerca del documento. 
+ Por ejempo el titulo de la pesta;a o sus hojas de estilos. 
+
+BODY -> La etiqueta <body> representa el contenido de un documento HTML. Aca va a estar
+toda la informacion que queramos que se vea en nuestra web.
+
+
+**Estrucutura basica** 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Informacion general del documento -->
+</head>
+<body>
+    <!-- Contenido visible de nuestro sitio -->
+</body>
+</html>
+
+
+
+ETIQUETAS 
+
+*Title*
+ Title es la etiqueta que vamos a utulizar para definir el contenido que va a ir en la pestaña de nuestro navegador.
+ Se escribe dentro de la etiqueta <head> y solo puede haber uno por HTML.
+
+*Encabezados*
+H1 - H6 
+ Los encabezados son las etiquetas que vamos a utilizar como titulo de las secciones en nuestra pagina. <h1> es la mas relevante y <h6> la menos releante. 
+ Los encabezados son etiquetas en bloque. 
+
+*Parrafos*
+ La etiqueta <p></p> sirve para delimitar un parrafo dentro de nuestro HTML. Es una etiqueta en bloque.
+
+*Hipervinculos*
+ La etiqueta <a> sirve para insertar enlaces en nuestro sitio. Es una etiqueta en linea y siempre va acompañada del atributo "href" el cual va a indicar a donde tiene que enlazar.
+
+*Strong, u y em*
+ Son etiquetas para enfatizar una parte de nuestro contenido. 
+ sirve para que nuestro texto pase a tener un peso de fuente superior, para aplicar subrayado y para aplicar cursiva. Las tres son etiquetas en linea.
+
+*Imagenes*
+ La etiqueta  sirve para insertar imagenes en nuestro sitio. Es una etiqueta en linea y siempre va acompañada del atributo "src" el cual indica que imagen tiene que mostrar.
