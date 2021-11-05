@@ -3,20 +3,23 @@
 form
 
  Se utilizara para agrupar todos las etiquetas que el formulario va a procesar
- Usualmente se utiliza con los atributos action para indicar a que URL vamos a enviar el formulario y method para indicar el metodo HTTP con el que se va a enviar
- input
+ Usualmente se utiliza con los atributos action para indicar a que URL vamos a enviar el formulario y method para indicar el metodo HTTP con el que se va a enviar. 
+ HTTP = protoclo de comunicacion entre el cliente(nosotros) y el servidor osea donde vamos a mandar la informacion.
 
-Se utiliza para definir la informacion que va a ir dentro del formulario. Va acompañada del atributo type el cual se usa para identificar el tipo de input. Tambien se la utiliza con el atributo name para poder enviar en el formulario un identificador descriptivo por input
+input
+ Se utiliza para definir la informacion que va a ir dentro del formulario. Va acompañada del atributo type el cual se usa para identificar el tipo de input. 
+ Tambien se la utiliza con el atributo name para poder enviar en el formulario un identificador descriptivo por input
 
 Tipos de input mas utilizados
-
-Text
-Number
-Password
-Radio
-Checkbox
-File
-Submit
+ Text
+ Number
+ Password
+ Radio
+ Checkbox
+ File
+ Submit
+ 
+ 
 select
-
-Es una etiqueta que se utiliza para elegir una opcion dentro de una lista desplegable. Dentro del select para indicar las distintas opciones se utiliza la etiqueta con el atributo value
+ Es una etiqueta que se utiliza para elegir una opcion dentro de una lista desplegable. 
+ Dentro del select para indicar las distintas opciones se utiliza la etiqueta con el atributo value
