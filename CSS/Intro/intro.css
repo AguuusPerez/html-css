@@ -1,0 +1,26 @@
+* {
+    margin:0;
+    padding: 0;
+    border: 0;
+    list-style: none;
+}
+
+
+div{
+    color: red;
+}
+
+#primerDiv{
+    color: blue;
+    min-height: 70px;
+    width: 50%;
+    background-color: red;
+    margin:10px auto;
+}
+
+.divColor{
+    color: green;
+    background-color: plum;
+    width: 100px;
+    margin: 20px 0;
+}
