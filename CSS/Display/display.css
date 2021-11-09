@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    list-style: none;
+    
+}
+
+/*.item {
+    background-color: red;
+    margin: 5px;
+    display: inline-block;
+    height: 50px;}  /*Los elementos que le diclaramos inline no se les va a modificar el aalto ni el ancho ni margenes*/
+
+body{
+    background-color: rgb(238, 238, 238);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.conteiner {
+    width: 800px;
+    margin: auto;
+    background-color: white;
+    padding: 10px;
+    border-left: 5px solid #DAF7A6;
+    border-radius: 5px;
+}
+
+.item {
+    margin: 10px;
+    border-bottom: 3px solid #DAF7A6;
+    padding-bottom: 15px;
+    font-size: 20px;
+}
+
+.verMas {
+    text-align: center;
+    color: #DAF7A6;
+    font-style: italic;
+    cursor: pointer;
+}
