@@ -4,3 +4,19 @@
     border: 0;
     list-style: none;
 }
+div{
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+}
+.cuadrado1{
+    background-color: #ff886f;
+}
+
+.cuadrado2{
+    background-color:#fd556e ;
+}
+
+.cuadrado3{
+    background-color:#b53765 ;
+}
