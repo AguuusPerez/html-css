@@ -16,6 +16,10 @@ div{
 
 .cuadrado2{
     background-color:#fd556e ;
+    position: absolute;
+    top: 50px;
+    left: 50%;
+    margin-left: -150px;
 }
 
 .cuadrado3{
