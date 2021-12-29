@@ -14,9 +14,10 @@ div{
     display: flex;
     justify-content: space-evenly;
     height: 600px;
-    background-color: hotpink;
+    background-color: burlywood;
     align-items: center;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
+    
 }
 
 .cuadrado1{
